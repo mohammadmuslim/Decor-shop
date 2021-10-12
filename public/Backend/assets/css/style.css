@@ -1,0 +1,10 @@
+.menuhover:hover{
+    background-color: rgb(255, 0, 0);
+    transition: 2s;
+}
+
+.sidenav-toggler-dark .sidenav-toggler-line {
+    background-color: #fff;
+    width: 45px !important;
+    height: 5px !important;
+}
